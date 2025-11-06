@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CF8-ManagerWeb"
+  id="myeclipse.1345618819275"
+  context-root="/CF8-ManagerWeb"
+  j2ee-spec="5.0"
+  archive="CF8-ManagerWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
